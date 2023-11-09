@@ -122,7 +122,7 @@ section{
     padding: 10px;
     box-shadow: 5px 5px 5px rgb(140,140,140);
     border: 1px solid rgba(118, 118 ,118);
-    background: url(../images/pork_rice.png) no-repeat;
+    background: url(../images/pork_rice.) no-repeat;
     background-size: cover;
     border-radius: 20px;
     padding-bottom: 30px;
